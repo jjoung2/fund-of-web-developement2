@@ -1,6 +1,6 @@
 # fund-of-web-developement2
 
-1. index.html - About my resume
+1.index.html - About my resume
 
 2.Introduce about what statistian can be
 
